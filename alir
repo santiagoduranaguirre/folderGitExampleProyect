@@ -1,0 +1,55 @@
+[33mcommit 5b7eb45a0b2587bb9ff6cbbdb89197f8223c0284[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: cf88ab8 1f34067
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 22:40:18 2021 -0500
+
+    Conflicto solucionado
+
+[33mcommit cf88ab8f76a6e1bbc8fb9f8f4a944bddb2f3255f[m
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 22:36:23 2021 -0500
+
+    Añadiendo algo nuevo a como
+
+[33mcommit 1f34067d0693bf9bc7034c5393245f5937f2816d[m
+Author: Hernan-Diaz <diazh@live.com.ar>
+Date:   Thu Jun 10 00:36:08 2021 -0300
+
+    Cambie como a una peli
+
+[33mcommit dda46afe4d779604d7a0b355a3de8402992b7e4d[m
+Merge: abd19e0 cf39fea
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 22:31:16 2021 -0500
+
+    Merge branch 'main' of https://github.com/santiagoduranaguirre/folderGitExampleProyect
+
+[33mcommit abd19e0280467dc9d2bec65225f8df3b48dd5e32[m
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 22:25:57 2021 -0500
+
+    Modificando el documento hola
+
+[33mcommit cf39fea31aa527d57289e64a0bede8e22593b0e0[m
+Author: Hernan-Diaz <diazh@live.com.ar>
+Date:   Thu Jun 10 00:24:50 2021 -0300
+
+    cambie archivo aa.txt
+
+[33mcommit 43342dfe68614a882b0d4cb91674c35e63f134ad[m
+Author: Hernan-Diaz <diazh@live.com.ar>
+Date:   Wed Jun 9 23:53:18 2021 -0300
+
+    agregue 3 archivos
+
+[33mcommit e4994e68af2a470c8201fb5b897d4457d7011d36[m
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 21:43:14 2021 -0500
+
+    Añadiendo 3 archivos
+
+[33mcommit 229c32d95fd6d49a7f2f31501e8d4d65faab36a3[m
+Author: santiagoduranaguirre <santiduran1995@gmail.com>
+Date:   Wed Jun 9 21:26:46 2021 -0500
+
+    Creando el Readme
